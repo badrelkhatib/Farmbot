@@ -1,0 +1,5 @@
+.env
+exportenv.sh
+mongo-data/
+node_modules/
+.vscode/
